@@ -1,0 +1,15 @@
+[
+{
+  "modid": "win_kb_fix",
+  "name": "Windows Keyboard Fixes",
+  "description": "Disables sticky keys & makes the Windows key usable during gameplay.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["John Baccarat"],
+  "logoFile": "win_kb_fix.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
